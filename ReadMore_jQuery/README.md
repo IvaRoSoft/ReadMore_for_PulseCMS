@@ -51,6 +51,6 @@ The html tag < p > is controlled by readmoreallp_init.
 
 .-.-.-.-.-
 
-For Pulse CMS edited by IvaRo Soft Slovakia - 2019.
+For Pulse CMS edited by IvaRoSoft Slovakia - 2019.
 
 License: MIT.
