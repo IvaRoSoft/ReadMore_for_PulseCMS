@@ -47,6 +47,7 @@ Example how to use:
 compatibility:
 
 Plugins, readmorejq_init, and readmoreallp_init are not compatible with the < p > html tag.
+
 The html tag < p > is controlled by readmoreallp_init.
 
 .-.-.-.-.-
