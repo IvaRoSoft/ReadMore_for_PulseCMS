@@ -1,5 +1,6 @@
 # ReadMore_for_PulseCMS
 Two "Read More" plugins for use in Pulse CMS.
+
 Usage: shortens the displayed text in html tags
 
 ( p > < div >, < article >, < span >, and more).
